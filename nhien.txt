@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+c
+cd
+git add .
+copy minhnhien.
+.txt
